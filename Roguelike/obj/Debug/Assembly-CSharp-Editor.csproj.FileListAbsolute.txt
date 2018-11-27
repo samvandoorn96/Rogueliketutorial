@@ -1,0 +1,2 @@
+F:\UnityProjects\Rogueliketutorial\Roguelike\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+F:\UnityProjects\Rogueliketutorial\Roguelike\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
